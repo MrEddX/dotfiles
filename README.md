@@ -1,2 +1,5 @@
-# dotfiles
-Dotfiles archive
+# Dotfiles Archive
+
+- ZSH
+- Vim
+- Tmux
