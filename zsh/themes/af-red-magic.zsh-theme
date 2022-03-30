@@ -1,4 +1,6 @@
 # Modified af-magic.zsh-theme
+# for root terminal to be more distinguishable.
+# For non-root still using the original 'af-magic`
 #
 # Original Author: Andy Fleming
 # URL: http://andyfleming.com/
