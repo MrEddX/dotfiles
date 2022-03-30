@@ -1,10 +1,11 @@
 ## Tmux Configuration
 
-- Prefix key: <code>`</code>
-- Horizontal split: `|`
-- Vertical split: `-`
+- Prefix key: <kbd>`</kbd>
+- Horizontal split: <kbd>|</kbd>
+- Vertical split: <kbd>-</kbd>
 - History: 20 000 rows
 - Better scrolling
-- Alt + `arrow` keys to switch panes
+- <kbd>Alt</kbd> + <kbd>🡠</kbd> <kbd>🡢</kbd> <kbd>🡡</kbd> <kbd>🡣</kbd> to switch panes
+- Mouse click to switch panes
 - Resizing panes with mouse
-- Indexing of Windows and Panes: Starts with 1
+- Human friendly indexing of **windows** and **panes**: Starts with **1**
